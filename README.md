@@ -5,7 +5,7 @@ An Android app for wirelessly controlling **three LEDs on a microcontroller boar
 ## App Preview
 
 <p align="center">
-  <img src="screenshots/app-screenshot.jpg" alt="HC-05 Bluetooth Controller app interface" width="320" />
+  <img src="hc05-app-screenshot.jpg" alt="HC-05 Bluetooth Controller app interface" width="320" />
 </p>
 
 ## Features
